@@ -24,6 +24,7 @@
   }
   .containers {
     display: grid;
+    gap: 10px;
     grid-template-columns: 100%;
     width: 80%;
   }

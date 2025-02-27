@@ -1,4 +1,7 @@
 @media (min-width: 768px) and (max-width: 992px) {
+  .banner-img {
+    background-position: center;
+  }
   .navbas img {
     display: none;
   }
