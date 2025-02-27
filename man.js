@@ -13,7 +13,7 @@ view.addEventListener("click", function () {
     hidden.style.display = "block";
     viewless.style.display = "none";
   } else {
-    text.innerHTML = "Sai định dạng email";
+    text.innerHTML = "vui lòng nhập lại Email";
     text.style.Color = "red";
   }
 });
